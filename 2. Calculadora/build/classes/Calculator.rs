@@ -1,0 +1,3 @@
+CalculadoraFemenina$ManejadorEventos
+Calculator
+CalculadoraFemenina

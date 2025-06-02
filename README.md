@@ -1,0 +1,2 @@
+# Proyectos-DAM
+Este Repositorio contiene una colección de proyectos desarrollados durante mi proceso de aprendizaje de programación en Java. Los proyectos están organizados de forma Cronológica y progresiva, comenzando con los conceptos mas básicos y evolucionando hacia implementaciones completas y avanzadas. Cada Proyecto representa una etapa de aprendizaje en la que se incorporan nuevos conceptos que reflejan el avance técnico y crecimiento en la lógica de programación de código y uso de herramientas.
